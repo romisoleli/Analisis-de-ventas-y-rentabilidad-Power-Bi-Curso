@@ -1,1 +1,60 @@
+📊 Proyecto de Análisis de Ventas con Power BI
 
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar el rendimiento de ventas de una empresa. 
+El objetivo principal es transformar datos en información accionable mediante visualizaciones claras que permitan monitorear métricas clave 
+como ventas, costos, rentabilidad y comportamiento por ciudad, medio de pago y dimensiones de producto.
+
+🚀 Objetivos del Proyecto
+
+- Construir un dashboard dinámico para explorar información de ventas.
+
+- Identificar tendencias temporales en ventas y rentabilidad.
+
+- Analizar el impacto de los costos y su distribución por tamaño de producto.
+
+- Evaluar la eficiencia de los métodos de pago y su aporte a la rentabilidad.
+
+- Mostrar habilidades en ETL, modelado de datos y visualización en Power BI.
+
+🗂️ Dataset
+
+El dataset utilizado proviene de un archivo Excel (Base de datos.xlsx) que incluye información transaccional de:
+
+- Ventas (monto total, unidades, ciudad, medio de pago).
+
+- Costos asociados a los productos.
+
+- Fechas de las transacciones.
+
+- Características de los productos (dimensiones en cm).
+
+📊 Visualizaciones Incluidas
+
+Indicadores principales (KPI Cards):
+
+- Ventas, Costos y Rentabilidad.
+
+- Promedio de diferencia de días.
+
+- Tendencia de ventas por mes y año (línea y barras):
+
+- Identificación de picos y caídas a lo largo del tiempo.
+
+- Rentabilidad por medio de pago (línea comparativa):
+
+- Comparación entre medios de pago.
+
+- Distribución de costos por tamaño de producto (gráfico de torta)
+
+🛠️ Tecnologías Utilizadas
+
+Power BI Desktop → Modelado de datos, DAX y visualizaciones.
+
+Excel → Fuente de datos original.
+
+🤝 Sobre mí
+
+Este proyecto fue realizado con fines de aprendizaje y demostración profesional.
+
+Mi objetivo es aplicar mis conocimientos en Business Intelligence y Data Analytics para ayudar a las empresas a tomar 
+decisiones basadas en datos.
